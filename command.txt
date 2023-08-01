@@ -5,3 +5,7 @@ git commit -m "heyheyhey"
 git checkout main
 git clone <url>
 git remote -v
+git pull
+git fetch
+git push
+
