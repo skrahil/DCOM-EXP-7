@@ -3,3 +3,5 @@ git log
 git status
 git commit -m "heyheyhey"
 git checkout main
+git clone <url>
+git remote -v
